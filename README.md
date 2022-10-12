@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Julieta Bachur!</h1>
-<h3 align="center">A web developer and pastry cook.</h3>
+<h1 align="center">Hi 👋, I'm Julieta!</h1>
+<h3 align="center">I'm a Frontend React Developer</h3>
 
 - I am from 📍 **Buenos Aires, Argentina.**
 
-- 🌱 I’m learning **JavaScript** 🧠
-
-- 🔭 I’m currently working on a project called [Dolce Julieta](https://julietabachur.github.io/dolcejulieta/)
+- 🌱 Currently I’m learning **UX/UI Design** 🧠
 
 - 👨‍💻 All of my projects are available at [https://github.com/Julietabachur](https://github.com/Julietabachur)
 
 - 💬 You can ask me about **cooking, volleyball and pets**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEYirs7ers/e8tE-oE-iYPPcVPNGdmwOA/view?utm_content=DAEYirs7ers&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAEYirs7ers/e8tE-oE-iYPPcVPNGdmwOA/view?utm_content=DAEYirs7ers&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAEYirs7ers/ysh731owjkZQpbABVLJlSA/view?utm_content=DAEYirs7ers&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAEYirs7ers/ysh731owjkZQpbABVLJlSA/view?utm_content=DAEYirs7ers&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
